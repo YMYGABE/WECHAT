@@ -1,0 +1,5 @@
+<!--miniprogram/pages/game/game.wxml-->
+<!-- 测试用例 -->
+<view class="outPicture" bindtap="onClickBigView">
+    <view class="insetPicture" catchtap="onClickSmallView"></view>
+</view>
